@@ -11,8 +11,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
 
   <!-- Stylesheets -->
-  <link rel="stylesheet" href="../css/vendors.css">
-  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="css/vendors.css">
+  <link rel="stylesheet" href="css/main.css">
 
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
@@ -33,7 +33,7 @@
   <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-  <title>Destination Wedding | Deep Faraskhana</title>
+  <title>Our Portfolio | Deep Faraskhana</title>
 </head>
 
 <body class="preloader-visible" data-barba="wrapper">
@@ -82,11 +82,11 @@
         <!-- header__bar start -->
         <div class="header__bar">
           <div class="header__logo js-header-logo">
-            <a href="../index.html">
-              <img class="header__logo__light" src="../img/logo/DF-logo-white.png" alt="Logo">
+            <a href="/">
+              <img class="header__logo__light" src="img/logo/DF-logo-white.png" alt="Logo">
             </a>
-            <a href="../index.html">
-              <img class="header__logo__dark" src="../img/logo/DF-logo-dark.png" alt="Logo">
+            <a href="/">
+              <img class="header__logo__dark" src="img/logo/DF-logo-dark.png" alt="Logo">
             </a>
           </div>
 
@@ -120,22 +120,22 @@
                   <div class="navList__wrap">
                     <ul class="navList js-navList">
                       <li>
-                        <a href="../index.html">
+                        <a href="/">
                           Home
                         </a>
                       </li>
                       <li>
-                        <a href="../about-us.html">
+                        <a href="about-us">
                           About Us
                         </a>
                       </li>
                       <li>
-                        <a href="../our-works.html">
+                        <a href="our-works">
                           Our Works
                         </a>
                       </li>
                       <li>
-                        <a href="../contact-us.html">
+                        <a href="contact-us">
                           Contact Us
                         </a>
                       </li>
@@ -165,6 +165,7 @@
                       <div class="nav__info__content text-lg text-white mt-16">
                         <a href="mailto:deepeventmanagers@gmail.com">deepeventmanagers@gmail.com</a>
                         <a href="tel:8460652672">+91 8460652672</a>
+                        <a href="tel:9925710818">+91 9925710818</a>
                       </div>
                     </div>
                   </div>
@@ -187,10 +188,9 @@
             <div class="col-xl-12 col-lg-12">
               <div class="sectionHeading -lg">
                 <h1 class="sectionHeading__title">
-                  Destination Wedding Portfolio
+                  Our Portfolio
                 </h1>
                 <p class="mt-24">Deep Faraskhana is one of the leading event management services based in Vadodara. The company has several years of experience working with top private clients. Deep Faraskhana specialises in wedding planning, party event, exhibition event. Clients trust on us for all their events and today, the company has proudly carved its name as one of the best wedding event management companies in Vadodara. Based on client needs and budget, We also plan and implements customised and exclusive theme-based events.</p>
-                <p class="mt-12">These are some of our best works that we have provided to our clients. For further inquiries <a href="../contact-us.html" style="color: black; font-weight: bolder;">Contact Us</a>.</p>
               </div>
             </div>
           </div>
@@ -214,10 +214,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/destination-wedding/image-01.jpeg"></div>
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-01.jpeg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/destination-wedding/image-01.jpeg" class="portfolioCard__link"></a>
+                    <a href="./img/portfolio/Image-01.jpeg" data-barba class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -227,10 +227,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/destination-wedding/image-10.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-02.jpeg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/destination-wedding/image-10.jpg" class="portfolioCard__link"></a>
+                    <a href="./img/portfolio/Image-02.jpeg" data-barba class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -240,10 +240,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/destination-wedding/image-03.jpeg"></div>
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-03.jpeg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/destination-wedding/image-03.jpeg" class="portfolioCard__link"></a>
+                    <a href="./img/portfolio/Image-03.jpeg" data-barba class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -253,10 +253,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/destination-wedding/image-04.jpeg"></div>
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-04.jpeg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/destination-wedding/image-04.jpeg" class="portfolioCard__link"></a>
+                    <a href="./img/portfolio/Image-04.jpeg" data-barba class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -266,10 +266,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/destination-wedding/image-05.jpeg"></div>
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-05.jpeg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/destination-wedding/image-05.jpeg" class="portfolioCard__link"></a>
+                    <a href="./img/portfolio/Image-05.jpeg" data-barba class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -279,10 +279,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/destination-wedding/image-06.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-06.jpeg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/destination-wedding/image-06.jpg" class="portfolioCard__link"></a>
+                    <a href="./img/portfolio/Image-06.jpeg" data-barba class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -292,10 +292,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/destination-wedding/image-07.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-07.jpeg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/destination-wedding/image-07.jpg" class="portfolioCard__link"></a>
+                    <a href="./img/portfolio/Image-07.jpeg" data-barba class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -305,10 +305,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/destination-wedding/image-08.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-08.jpeg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/destination-wedding/image-08.jpg" class="portfolioCard__link"></a>
+                    <a href="./img/portfolio/Image-08.jpeg" data-barba class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -318,14 +318,212 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/destination-wedding/image-09.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-09.jpeg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/destination-wedding/image-09.jpg" class="portfolioCard__link"></a>
+                    <a href="./img/portfolio/Image-09.jpeg" data-barba class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
 
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-10.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-10.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-11.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-11.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-12.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-12.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-13.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-13.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-14.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-14.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-15.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-15.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-16.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-16.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-17.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-17.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-18.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-18.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-19.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-19.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-20.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-20.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-21.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-21.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-22.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-22.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-23.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-23.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="./img/portfolio/Image-24.jpeg"></div>
+                      </div>
+                    </div>
+                    <a href="./img/portfolio/Image-24.jpeg" data-barba class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              
+            </div>
+          </div>
           <!-- container end -->
 
         </div>
@@ -342,7 +540,7 @@
             <!-- row start -->
             <div class="row y-gap-48 justify-content-between">
               <div class="col-lg-auto col-sm-12">
-                <a href="../index.html" class="footer__logo text-white">
+                <a href="index.html" class="footer__logo text-white">
                   DeepFaraskhana.
                 </a>
               </div>
@@ -356,6 +554,7 @@
                   <p>B101, Pramukhswami Nagar Society, Near Meera Flats, Near Old R.T.O, Warasia Ring Road, Vadodara</p>
                   <p class="mt-8">deepeventmanagers@gmail.com</p>
                   <p class="mt-8">+91 8460652672</p>
+                  <p class="mt-8">+91 9925710818</p>
                 </div>
               </div>
 
@@ -365,9 +564,9 @@
                 </h4>
 
                 <div class="footer__content text-base text-light mt-16 sm:mt-12">
-                  <div><a data-barba href="../about-us.html" class="button -underline">About Us</a></div>
-                  <div><a data-barba href="../our-works.html" class="button -underline mt-4">Our Works</a></div>
-                  <div><a data-barba href="../contact-us.html" class="button -underline mt-4">Contact Us</a></div>
+                  <div><a href="about-us" class="button -underline">About Us</a></div>
+                  <div><a href="our-works" class="button -underline mt-4">Our Works</a></div>
+                  <div><a href="contact-us" class="button -underline mt-4">Contact Us</a></div>
                 </div>
               </div>
 
@@ -423,8 +622,8 @@
 
 
   <!-- JavaScript -->
-  <script src="../js/vendors.js"></script>
-  <script src="../js/main.js"></script>
+  <script src="js/vendors.js"></script>
+  <script src="js/main.js"></script>
   <script type="text/javascript"> 
     function googleTranslateElementInit() {
       new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');

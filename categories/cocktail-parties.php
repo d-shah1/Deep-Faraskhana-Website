@@ -11,8 +11,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
 
   <!-- Stylesheets -->
-  <link rel="stylesheet" href="css/vendors.css">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="../css/vendors.css">
+  <link rel="stylesheet" href="../css/main.css">
 
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
@@ -33,7 +33,7 @@
   <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-  <title>Contact Us | Deep Faraskhana</title>
+  <title>Cocktail Parties | Deep Faraskhana</title>
 </head>
 
 <body class="preloader-visible" data-barba="wrapper">
@@ -82,11 +82,11 @@
         <!-- header__bar start -->
         <div class="header__bar">
           <div class="header__logo js-header-logo">
-            <a href="./index.html">
-              <img class="header__logo__light" src="img/logo/DF-logo-white.png" alt="Logo">
+            <a href="/">
+              <img class="header__logo__light" src="../img/logo/DF-logo-white.png" alt="Logo">
             </a>
-            <a href="./index.html">
-              <img class="header__logo__dark" src="img/logo/DF-logo-dark.png" alt="Logo">
+            <a href="/">
+              <img class="header__logo__dark" src="../img/logo/DF-logo-dark.png" alt="Logo">
             </a>
           </div>
 
@@ -120,22 +120,22 @@
                   <div class="navList__wrap">
                     <ul class="navList js-navList">
                       <li>
-                        <a href="index.html">
+                        <a href="/">
                           Home
                         </a>
                       </li>
                       <li>
-                        <a href="about-us.html">
+                        <a href="../about-us">
                           About Us
                         </a>
                       </li>
                       <li>
-                        <a href="our-works.html">
+                        <a href="../our-works">
                           Our Works
                         </a>
                       </li>
                       <li>
-                        <a href="contact-us.html">
+                        <a href="../contact-us">
                           Contact Us
                         </a>
                       </li>
@@ -163,8 +163,9 @@
                       </h5>
 
                       <div class="nav__info__content text-lg text-white mt-16">
-                        <a href="#">deepeventmanagers@gmail.com</a>
-                        <a href="#">+91 8460652672</a>
+                        <a href="mailto:deepeventmanagers@gmail.com">deepeventmanagers@gmail.com</a>
+                        <a href="tel:8460652672">+91 8460652672</a>
+                        <a href="tel:9925710818">+91 9925710818</a>
                       </div>
                     </div>
                   </div>
@@ -179,94 +180,108 @@
 
 
       <!-- section start -->
-      <section class="layout-pt-xl layout-pb-sm">
+      <section class="layout-pt-pageHeader layout-pb-xs">
         <!-- container start -->
-        <div data-anim-wrap class="container">
-
+        <div class="container">
           <!-- row start -->
-          <div class="row justify-content-center">
-            <div class="col-xl-9">
-              <div data-anim-child="slide-up delay-1" class="sectionHeading -md">
+          <div class="row">
+            <div class="col-xl-12 col-lg-12">
+              <div class="sectionHeading -lg">
                 <h1 class="sectionHeading__title">
-                  Have an event in mind?
+                  Cocktail Parties Portfolio
                 </h1>
-                <p class="text-black leading-md mt-24">
-                  Use the form below or
-                  <a href="#" class="fw-700">send us an email</a>.
-                </p>
+                <p class="mt-24">Deep Faraskhana is one of the leading event management services based in Vadodara. The company has several years of experience working with top private clients. Deep Faraskhana specialises in wedding planning, party event, exhibition event. Clients trust on us for all their events and today, the company has proudly carved its name as one of the best wedding event management companies in Vadodara. Based on client needs and budget, We also plan and implements customised and exclusive theme-based events.</p>
+                <p class="mt-12">These are some of our best works that we have provided to our clients. For further inquiries <a href="../contact-us.html" style="color: black; font-weight: bolder;">Contact Us</a>.</p>
               </div>
             </div>
           </div>
           <!-- row end -->
-
-          <!-- row start -->
-          <div data-anim-child="slide-up delay-1" class="row justify-content-center layout-pt-sm">
-            <div class="col-xl-9">
-              <div class="contact-form -type-1">
-                <form class="row x-gap-32 y-gap-32 js-ajax-form" method="POST" action="#" data-message-success="Your message has been sent! We will reply you as soon as possible." data-message-error="Something went wrong. Please contact us directly at <a href='hello%40stukram.html'>hello@stukram.com</a>.">
-                  <div class="col-12">
-                    <label class="js-input-group">
-                      Name
-                      <input type="text" name="name" data-required placeholder="Fill in your name">
-                      <span class="form__error"></span>
-                    </label>
-                  </div>
-
-                  <div class="col-12">
-                    <label class="js-input-group">
-                      Email
-                      <input type="text" name="email" data-required placeholder="Fill in your email">
-                      <span class="form__error"></span>
-                    </label>
-                  </div>
-
-                  <div class="col-12">
-                    <label class="js-input-group">
-                      Phone Number
-                      <input type="text" name="phone" data-required placeholder="Enter your mobile number">
-                      <span class="form__error"></span>
-                    </label>
-                  </div>
-
-                  <div class="col-12">
-                    <label class="js-input-group">
-                      Budget (optional)
-                      <input type="text" name="budget" placeholder="Do you have a fixed budget?">
-                      <span class="form__error"></span>
-                    </label>
-                  </div>
-
-                  <div class="col-12">
-                    <label class="js-input-group">
-                      Tell us about your event
-                      <textarea name="message" rows="1" placeholder="Event description"></textarea>
-                      <span class="form__error"></span>
-                    </label>
-                  </div>
-
-                  <div class="col-12 ajax-form-alert js-ajax-form-alert">
-                    <div class="ajax-form-alert__content">
-                    </div>
-                  </div>
-
-                  <div class="col-12">
-                    <button type="submit" class="button -md -black text-white">
-                      Send Message
-                    </button>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-          <!-- row end -->
-
         </div>
         <!-- container end -->
       </section>
       <!-- section end -->
 
 
-       <!-- footer start -->
+      <!-- section start -->
+      <section class="layout-pt-md layout-pb-md">
+        <div class="section-filter">
+          <!-- container start -->
+          <div class="container-wide">
+            <div class="masonry -col-4 -gap-32">
+              <div class="masonry__sizer"></div>
+
+              <div class="masonry__item -big branding">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="../img/categories/cocktail-parties/image-04.jpg"></div>
+                      </div>
+                    </div>
+                    <a href="../img/categories/cocktail-parties/image-04.jpg" class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="../img/categories/cocktail-parties/image-01.jpg"></div>
+                      </div>
+                    </div>
+                    <a href="../img/categories/cocktail-parties/image-01.jpg" class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="../img/categories/cocktail-parties/image-02.jpg"></div>
+                      </div>
+                    </div>
+                    <a href="../img/categories/cocktail-parties/image-02.jpg" class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="../img/categories/cocktail-parties/image-03.jpg"></div>
+                      </div>
+                    </div>
+                    <a href="../img/categories/cocktail-parties/image-03.jpg" class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="masonry__item web_design">
+                <div class="portfolioCard -type-2">
+                  <div class="ratio">
+                    <div class="portfolioCard__img">
+                      <div class="portfolioCard__img__inner">
+                        <div class="bg-image js-lazy" data-bg="../img/categories/cocktail-parties/image-05.jpg"></div>
+                      </div>
+                    </div>
+                    <a href="../img/categories/cocktail-parties/image-05.jpg" class="portfolioCard__link"></a>
+                  </div>
+                </div>
+              </div>
+          <!-- container end -->
+
+        </div>
+      </section>
+      <!-- section end -->
+
+
+      <!-- footer start -->
       <footer class="footer -type-1 bg-dark-1">
         <!-- container start -->
         <div class="container">
@@ -275,7 +290,7 @@
             <!-- row start -->
             <div class="row y-gap-48 justify-content-between">
               <div class="col-lg-auto col-sm-12">
-                <a href="index.html" class="footer__logo text-white">
+                <a href="../index.html" class="footer__logo text-white">
                   DeepFaraskhana.
                 </a>
               </div>
@@ -289,6 +304,7 @@
                   <p>B101, Pramukhswami Nagar Society, Near Meera Flats, Near Old R.T.O, Warasia Ring Road, Vadodara</p>
                   <p class="mt-8">deepeventmanagers@gmail.com</p>
                   <p class="mt-8">+91 8460652672</p>
+                  <p class="mt-8">+91 9925710818</p>
                 </div>
               </div>
 
@@ -298,9 +314,9 @@
                 </h4>
 
                 <div class="footer__content text-base text-light mt-16 sm:mt-12">
-                  <div><a data-barba href="#" class="button -underline">About Us</a></div>
-                  <div><a data-barba href="#" class="button -underline mt-4">Our Works</a></div>
-                  <div><a data-barba href="#" class="button -underline mt-4">Contact Us</a></div>
+                  <div><a href="../about-us" class="button -underline">About Us</a></div>
+                  <div><a href="../our-works" class="button -underline mt-4">Our Works</a></div>
+                  <div><a href="../contact-us" class="button -underline mt-4">Contact Us</a></div>
                 </div>
               </div>
 
@@ -356,8 +372,8 @@
 
 
   <!-- JavaScript -->
-  <script src="js/vendors.js"></script>
-  <script src="js/main.js"></script>
+  <script src="../js/vendors.js"></script>
+  <script src="../js/main.js"></script>
   <script type="text/javascript"> 
     function googleTranslateElementInit() {
       new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');

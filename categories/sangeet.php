@@ -33,7 +33,7 @@
   <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-  <title>Bachelor Parties | Deep Faraskhana</title>
+  <title>Sangeet | Deep Faraskhana</title>
 </head>
 
 <body class="preloader-visible" data-barba="wrapper">
@@ -82,10 +82,10 @@
         <!-- header__bar start -->
         <div class="header__bar">
           <div class="header__logo js-header-logo">
-            <a href="../index.html">
+            <a href="/">
               <img class="header__logo__light" src="../img/logo/DF-logo-white.png" alt="Logo">
             </a>
-            <a href="../index.html">
+            <a href="/">
               <img class="header__logo__dark" src="../img/logo/DF-logo-dark.png" alt="Logo">
             </a>
           </div>
@@ -120,22 +120,22 @@
                   <div class="navList__wrap">
                     <ul class="navList js-navList">
                       <li>
-                        <a href="../index.html">
+                        <a href="/">
                           Home
                         </a>
                       </li>
                       <li>
-                        <a href="../about-us.html">
+                        <a href="../about-us">
                           About Us
                         </a>
                       </li>
                       <li>
-                        <a href="../our-works.html">
+                        <a href="../our-works">
                           Our Works
                         </a>
                       </li>
                       <li>
-                        <a href="../contact-us.html">
+                        <a href="../contact-us">
                           Contact Us
                         </a>
                       </li>
@@ -165,6 +165,7 @@
                       <div class="nav__info__content text-lg text-white mt-16">
                         <a href="mailto:deepeventmanagers@gmail.com">deepeventmanagers@gmail.com</a>
                         <a href="tel:8460652672">+91 8460652672</a>
+                        <a href="tel:9925710818">+91 9925710818</a>
                       </div>
                     </div>
                   </div>
@@ -187,7 +188,7 @@
             <div class="col-xl-12 col-lg-12">
               <div class="sectionHeading -lg">
                 <h1 class="sectionHeading__title">
-                  Bachelor Parties Portfolio
+                  Sangeet Portfolio
                 </h1>
                 <p class="mt-24">Deep Faraskhana is one of the leading event management services based in Vadodara. The company has several years of experience working with top private clients. Deep Faraskhana specialises in wedding planning, party event, exhibition event. Clients trust on us for all their events and today, the company has proudly carved its name as one of the best wedding event management companies in Vadodara. Based on client needs and budget, We also plan and implements customised and exclusive theme-based events.</p>
                 <p class="mt-12">These are some of our best works that we have provided to our clients. For further inquiries <a href="../contact-us.html" style="color: black; font-weight: bolder;">Contact Us</a>.</p>
@@ -214,10 +215,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/bachelor-parties/image-06.jpeg"></div>
+                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-01.jpg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/bachelor-parties/image-06.jpeg" class="portfolioCard__link"></a>
+                    <a href="../img/categories/luxury-weddings/image-01.jpg" class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -227,10 +228,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/bachelor-parties/image-02.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-02.jpg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/bachelor-parties/image-02.jpg" class="portfolioCard__link"></a>
+                    <a href="../img/categories/luxury-weddings/image-02.jpg" class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -240,10 +241,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/bachelor-parties/image-03.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-03.jpg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/bachelor-parties/image-03.jpg" class="portfolioCard__link"></a>
+                    <a href="../img/categories/luxury-weddings/image-03.jpg" class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -253,10 +254,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/bachelor-parties/image-04.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-04.jpg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/bachelor-parties/image-04.jpg" class="portfolioCard__link"></a>
+                    <a href="../img/categories/luxury-weddings/image-04.jpg" class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -266,10 +267,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/bachelor-parties/image-05.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-05.png"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/bachelor-parties/image-05.jpg" class="portfolioCard__link"></a>
+                    <a href="../img/categories/luxury-weddings/image-05.png" class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -279,10 +280,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/bachelor-parties/image-01.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-06.jpg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/bachelor-parties/image-01.jpg" class="portfolioCard__link"></a>
+                    <a href="../img/categories/luxury-weddings/image-06.jpg" class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -292,10 +293,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/bachelor-parties/image-07.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-07.jpg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/bachelor-parties/image-07.jpg" class="portfolioCard__link"></a>
+                    <a href="../img/categories/luxury-weddings/image-07.jpg" class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -305,23 +306,10 @@
                   <div class="ratio">
                     <div class="portfolioCard__img">
                       <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/bachelor-parties/image-08.jpg"></div>
+                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-08.jpg"></div>
                       </div>
                     </div>
-                    <a href="../img/categories/bachelor-parties/image-08.jpg" class="portfolioCard__link"></a>
-                  </div>
-                </div>
-              </div>
-
-              <div class="masonry__item web_design">
-                <div class="portfolioCard -type-2">
-                  <div class="ratio">
-                    <div class="portfolioCard__img">
-                      <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/bachelor-parties/image-01.jpg"></div>
-                      </div>
-                    </div>
-                    <a href="../img/categories/bachelor-parties/image-01.jpg" class="portfolioCard__link"></a>
+                    <a href="../img/categories/luxury-weddings/image-08.jpg" class="portfolioCard__link"></a>
                   </div>
                 </div>
               </div>
@@ -355,6 +343,7 @@
                   <p>B101, Pramukhswami Nagar Society, Near Meera Flats, Near Old R.T.O, Warasia Ring Road, Vadodara</p>
                   <p class="mt-8">deepeventmanagers@gmail.com</p>
                   <p class="mt-8">+91 8460652672</p>
+                  <p class="mt-8">+91 9925710818</p>
                 </div>
               </div>
 
@@ -364,9 +353,9 @@
                 </h4>
 
                 <div class="footer__content text-base text-light mt-16 sm:mt-12">
-                  <div><a data-barba href="../about-us.html" class="button -underline">About Us</a></div>
-                  <div><a data-barba href="../our-works.html" class="button -underline mt-4">Our Works</a></div>
-                  <div><a data-barba href="../contact-us.html" class="button -underline mt-4">Contact Us</a></div>
+                  <div><a href="../about-us" class="button -underline">About Us</a></div>
+                  <div><a href="../our-works" class="button -underline mt-4">Our Works</a></div>
+                  <div><a href="../contact-us" class="button -underline mt-4">Contact Us</a></div>
                 </div>
               </div>
 

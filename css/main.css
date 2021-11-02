@@ -3387,7 +3387,7 @@ h6 {
 }
 
 .contact-form.-type-1 .ajax-form-alert {
-  display: none;
+  display: block;
 }
 
 .contact-form.-type-1 .ajax-form-alert.is-active {
@@ -3398,7 +3398,7 @@ h6 {
   background-color: rgba(255, 0, 0, 0.25);
 }
 
-.contact-form.-type-1 .ajax-form-alert.is-success .ajax-form-alert__content {
+.contact-form.-type-1 .ajax-form-alert .ajax-form-alert__content {
   background-color: rgba(0, 128, 0, 0.2);
 }
 

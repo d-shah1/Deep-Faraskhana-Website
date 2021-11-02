@@ -81,10 +81,10 @@
         <!-- header__bar start -->
         <div class="header__bar">
           <div class="header__logo js-header-logo">
-            <a href="./index.html">
+            <a href="/">
               <img class="header__logo__light" src="img/logo/DF-logo-white.png" alt="Logo">
             </a>
-            <a href="./index.html">
+            <a href="/">
               <img class="header__logo__dark" src="img/logo/DF-logo-dark.png" alt="Logo">
             </a>
           </div>
@@ -119,22 +119,22 @@
                   <div class="navList__wrap">
                     <ul class="navList js-navList">
                       <li>
-                        <a href="index.html">
+                        <a href="/">
                           Home
                         </a>
                       </li>
                       <li>
-                        <a href="about-us.html">
+                        <a href="about-us">
                           About Us
                         </a>
                       </li>
                       <li>
-                        <a href="our-works.html">
+                        <a href="our-works">
                           Our Works
                         </a>
                       </li>
                       <li>
-                        <a href="contact-us.html">
+                        <a href="contact-us">
                           Contact Us
                         </a>
                       </li>
@@ -613,6 +613,7 @@
                   <p>B101, Pramukhswami Nagar Society, Near Meera Flats, Near Old R.T.O, Warasia Ring Road, Vadodara</p>
                   <p class="mt-8">deepeventmanagers@gmail.com</p>
                   <p class="mt-8">+91 8460652672</p>
+                  <p class="mt-8">+91 9925710818</p>
                 </div>
               </div>
 
@@ -622,9 +623,9 @@
                 </h4>
 
                 <div class="footer__content text-base text-light mt-16 sm:mt-12">
-                  <div><a data-barba href="about-us.html" class="button -underline">About Us</a></div>
-                  <div><a data-barba href="our-works.html" class="button -underline mt-4">Our Works</a></div>
-                  <div><a data-barba href="contact-us.html" class="button -underline mt-4">Contact Us</a></div>
+                  <div><a href="about-us" class="button -underline">About Us</a></div>
+                  <div><a href="our-works" class="button -underline mt-4">Our Works</a></div>
+                  <div><a href="contact-us" class="button -underline mt-4">Contact Us</a></div>
                 </div>
               </div>
 

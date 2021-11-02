@@ -11,8 +11,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
 
   <!-- Stylesheets -->
-  <link rel="stylesheet" href="../css/vendors.css">
-  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="css/vendors.css">
+  <link rel="stylesheet" href="css/main.css">
 
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
@@ -33,7 +33,7 @@
   <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-  <title>Luxury Weddings | Deep Faraskhana</title>
+  <title>About Us | Deep Faraskhana</title>
 </head>
 
 <body class="preloader-visible" data-barba="wrapper">
@@ -82,11 +82,11 @@
         <!-- header__bar start -->
         <div class="header__bar">
           <div class="header__logo js-header-logo">
-            <a href="../index.html">
-              <img class="header__logo__light" src="../img/logo/DF-logo-white.png" alt="Logo">
+            <a href="/">
+              <img class="header__logo__light" src="img/logo/DF-logo-white.png" alt="Logo">
             </a>
-            <a href="../index.html">
-              <img class="header__logo__dark" src="../img/logo/DF-logo-dark.png" alt="Logo">
+            <a href="/">
+              <img class="header__logo__dark" src="img/logo/DF-logo-dark.png" alt="Logo">
             </a>
           </div>
 
@@ -120,22 +120,22 @@
                   <div class="navList__wrap">
                     <ul class="navList js-navList">
                       <li>
-                        <a href="../index.html">
+                        <a href="/">
                           Home
                         </a>
                       </li>
                       <li>
-                        <a href="../about-us.html">
+                        <a href="about-us">
                           About Us
                         </a>
                       </li>
                       <li>
-                        <a href="../our-works.html">
+                        <a href="our-works">
                           Our Works
                         </a>
                       </li>
                       <li>
-                        <a href="../contact-us.html">
+                        <a href="contact-us">
                           Contact Us
                         </a>
                       </li>
@@ -165,6 +165,7 @@
                       <div class="nav__info__content text-lg text-white mt-16">
                         <a href="mailto:deepeventmanagers@gmail.com">deepeventmanagers@gmail.com</a>
                         <a href="tel:8460652672">+91 8460652672</a>
+                        <a href="tel:9925710818">+91 9925710818</a>
                       </div>
                     </div>
                   </div>
@@ -179,19 +180,137 @@
 
 
       <!-- section start -->
-      <section class="layout-pt-pageHeader layout-pb-xs">
+      <section class="layout-pt-2xl layout-pb-md">
+        <div data-anim-wrap>
+
+          <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+
+              <div class="col-lg-6 col-md-10">
+                <div data-anim-child="slide-up" class="sectionHeading -sm">
+                  <h1 class="sectionHeading__title">
+                    14 years of successful and memorable events that we can’t wait to organise for you.
+                  </h1>
+                </div>
+              </div>
+
+
+              <div class="col-lg-5 col-md-10 md:mt-32 sm:mt-20">
+                <div data-anim-child="slide-up delay-1">
+                  <p class="text-lg sm:text-base">
+                    Our motive is to provide seamless and luxurious experience to our clients, make them feel superior.
+                  </p>
+                  <p class="text-lg sm:text-base mt-32 md:mt-20">
+                    Our main forte is to deconstruct the client's expectations and organising the events stepwise.<br/><b>Deep Events</b> specializes in organising large scale events efficiently and effectively, yet small enough to create the event of your dreams with relentless pursuit with undivided attention to every smallest detail.
+                  </p>
+                </div>
+              </div>
+
+            </div>
+            <!-- row end -->
+          </div>
+          <!-- container end -->
+
+
+          <!-- container start -->
+          <div class="container-wide layout-pt-lg">
+            <div data-anim-child="slide-up delay-3" data-parallax="0.7" class="h-lg">
+              <div data-parallax-target class="bg-image js-lazy" data-bg="img/backgrounds/about-banner-2.jpg"></div>
+            </div>
+          </div>
+          <!-- container end -->
+
+        </div>
+      </section>
+      <!-- section end -->
+
+      <!-- section start -->
+      <section class="layout-pt-sm text-dark  layout-pb-md">
         <!-- container start -->
         <div class="container">
+
           <!-- row start -->
           <div class="row">
-            <div class="col-xl-12 col-lg-12">
+            <div class="col-xl-6 col-lg-8 col-md-10">
               <div class="sectionHeading -lg">
-                <h1 class="sectionHeading__title">
-                  Luxury Weddings Portfolio
-                </h1>
-                <p class="mt-24">Deep Faraskhana is one of the leading event management services based in Vadodara. The company has several years of experience working with top private clients. Deep Faraskhana specialises in wedding planning, party event, exhibition event. Clients trust on us for all their events and today, the company has proudly carved its name as one of the best wedding event management companies in Vadodara. Based on client needs and budget, We also plan and implements customised and exclusive theme-based events.</p>
-                <p class="mt-12">These are some of our best works that we have provided to our clients. For further inquiries <a href="../contact-us.html" style="color: black; font-weight: bolder;">Contact Us</a>.</p>
+                <h2 class="sectionHeading__title" style="color: black;">
+                  Organize it simple but memorable
+                </h2>
               </div>
+            </div>
+          </div>
+          <!-- row end -->
+
+
+          <!-- row start -->
+          <div class="row x-gap-60 y-gap-48 layout-pt-sm">
+            <div class="col-lg-4 col-md-6">
+              <div class="">
+                <h4 class="text-xl fw-600" style="color: black;">
+                  Detailed Attention
+                </h4>
+                <p class="mt-16">
+                  Each and every details are taken into consideration when the event is planned. Deep Event Management is known for delivering perfect and memorable event for our clients.
+                </p>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+              <div class="">
+                <h4 class="text-xl fw-600" style="color: black;">
+                  Value For Money
+                </h4>
+                <p class="mt-16">
+                  We give 100% of our work and even more according to the client's budget. We are more biased towards a perfect and memorable event rather than the budget.
+                </p>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+              <div class="">
+                <h4 class="text-xl fw-600" style="color: black;">
+                  Transparency
+                </h4>
+                <p class="mt-16">
+                  When planning the event, we make sure that our client is in loop of each and every detail planning which is our biggest asset. Transparency is our valued possession.
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- row end -->
+
+        </div>
+        <!-- container end -->
+      </section>
+      <!-- section end -->
+
+
+      <!-- section start -->
+      <section data-parallax="0.7" class="layout-pt-lg layout-pb-lg">
+        <div data-parallax-target class="overlay-black-md bg-image js-lazy" data-bg="img/backgrounds/about-banner.jpeg"></div>
+
+        <!-- container start -->
+        <div class="container z-5">
+          <!-- row start -->
+          <div class="row justify-content-center text-center">
+            <div class="col-12">
+              <p class="text-sm uppercase tracking-lg text-white mb-20">
+                Contact us
+              </p>
+
+              <h2 class="text-5xl sm:text-5xl xs:text-4xl leading-sm fw-700 text-white">
+                Planning to organise an event ?
+              </h2>
+
+              <p class="text-xl md:text-lg text-white mt-16">
+                Small or big, we've got you covered!
+              </p>
+
+              <a href="#" class="button -md -white text-black mt-32">
+                Get in Touch
+              </a>
             </div>
           </div>
           <!-- row end -->
@@ -201,126 +320,8 @@
       <!-- section end -->
 
 
-      <!-- section start -->
-      <section class="layout-pt-md layout-pb-md">
-        <div class="section-filter">
-          <!-- container start -->
-          <div class="container-wide">
-            <div class="masonry -col-4 -gap-32">
-              <div class="masonry__sizer"></div>
-
-              <div class="masonry__item -big branding">
-                <div class="portfolioCard -type-2">
-                  <div class="ratio">
-                    <div class="portfolioCard__img">
-                      <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-01.jpg"></div>
-                      </div>
-                    </div>
-                    <a href="../img/categories/luxury-weddings/image-01.jpg" class="portfolioCard__link"></a>
-                  </div>
-                </div>
-              </div>
-
-              <div class="masonry__item web_design">
-                <div class="portfolioCard -type-2">
-                  <div class="ratio">
-                    <div class="portfolioCard__img">
-                      <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-02.jpg"></div>
-                      </div>
-                    </div>
-                    <a href="../img/categories/luxury-weddings/image-02.jpg" class="portfolioCard__link"></a>
-                  </div>
-                </div>
-              </div>
-
-              <div class="masonry__item web_design">
-                <div class="portfolioCard -type-2">
-                  <div class="ratio">
-                    <div class="portfolioCard__img">
-                      <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-03.jpg"></div>
-                      </div>
-                    </div>
-                    <a href="../img/categories/luxury-weddings/image-03.jpg" class="portfolioCard__link"></a>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="masonry__item web_design">
-                <div class="portfolioCard -type-2">
-                  <div class="ratio">
-                    <div class="portfolioCard__img">
-                      <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-04.jpg"></div>
-                      </div>
-                    </div>
-                    <a href="../img/categories/luxury-weddings/image-04.jpg" class="portfolioCard__link"></a>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="masonry__item web_design">
-                <div class="portfolioCard -type-2">
-                  <div class="ratio">
-                    <div class="portfolioCard__img">
-                      <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-05.png"></div>
-                      </div>
-                    </div>
-                    <a href="../img/categories/luxury-weddings/image-05.png" class="portfolioCard__link"></a>
-                  </div>
-                </div>
-              </div>
-
-              <div class="masonry__item web_design">
-                <div class="portfolioCard -type-2">
-                  <div class="ratio">
-                    <div class="portfolioCard__img">
-                      <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-06.jpg"></div>
-                      </div>
-                    </div>
-                    <a href="../img/categories/luxury-weddings/image-06.jpg" class="portfolioCard__link"></a>
-                  </div>
-                </div>
-              </div>
-
-              <div class="masonry__item web_design">
-                <div class="portfolioCard -type-2">
-                  <div class="ratio">
-                    <div class="portfolioCard__img">
-                      <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-07.jpg"></div>
-                      </div>
-                    </div>
-                    <a href="../img/categories/luxury-weddings/image-07.jpg" class="portfolioCard__link"></a>
-                  </div>
-                </div>
-              </div>
-
-              <div class="masonry__item web_design">
-                <div class="portfolioCard -type-2">
-                  <div class="ratio">
-                    <div class="portfolioCard__img">
-                      <div class="portfolioCard__img__inner">
-                        <div class="bg-image js-lazy" data-bg="../img/categories/luxury-weddings/image-08.jpg"></div>
-                      </div>
-                    </div>
-                    <a href="../img/categories/luxury-weddings/image-08.jpg" class="portfolioCard__link"></a>
-                  </div>
-                </div>
-              </div>
-          <!-- container end -->
-
-        </div>
-      </section>
-      <!-- section end -->
-
-
       <!-- footer start -->
-      <footer class="footer -type-1 bg-dark-1">
+      <footer class="footer -type-1">
         <!-- container start -->
         <div class="container">
 
@@ -328,37 +329,38 @@
             <!-- row start -->
             <div class="row y-gap-48 justify-content-between">
               <div class="col-lg-auto col-sm-12">
-                <a href="../index.html" class="footer__logo text-white">
+                <a href="index.html" class="footer__logo text-dark">
                   DeepFaraskhana.
                 </a>
               </div>
 
               <div class="col-lg-3 col-sm-6">
-                <h4 class="text-xl fw-500 text-white">
-                  Studio
+                <h4 class="text-xl fw-500 text-dark">
+                  Address
                 </h4>
 
-                <div class="footer__content text-base text-light mt-16 sm:mt-12">
+                <div class="footer__content text-base text-dark mt-16 sm:mt-12">
                   <p>B101, Pramukhswami Nagar Society, Near Meera Flats, Near Old R.T.O, Warasia Ring Road, Vadodara</p>
                   <p class="mt-8">deepeventmanagers@gmail.com</p>
                   <p class="mt-8">+91 8460652672</p>
+                  <p class="mt-8">+91 9925710818</p>
                 </div>
               </div>
 
               <div class="col-lg-auto col-sm-4">
-                <h4 class="text-xl fw-500 text-white">
+                <h4 class="text-xl fw-500 text-black">
                   Links
                 </h4>
 
-                <div class="footer__content text-base text-light mt-16 sm:mt-12">
-                  <div><a data-barba href="../about-us.html" class="button -underline">About Us</a></div>
-                  <div><a data-barba href="../our-works.html" class="button -underline mt-4">Our Works</a></div>
-                  <div><a data-barba href="../contact-us.html" class="button -underline mt-4">Contact Us</a></div>
+                <div class="footer__content text-base text-dark mt-16 sm:mt-12">
+                  <div><a data-barba href="about-us" class="button -underline">About Us</a></div>
+                  <div><a data-barba href="our-works" class="button -underline mt-4">Our Works</a></div>
+                  <div><a data-barba href="contact-us" class="button -underline mt-4">Contact Us</a></div>
                 </div>
               </div>
 
               <div class="col-lg-auto col-auto">
-                <h4 class="text-xl fw-500 text-white">
+                <h4 class="text-xl fw-500 text-black">
                   Follow us
                 </h4>
 
@@ -379,13 +381,13 @@
           </div>
 
 
-          <div class="footer__bottom -light">
+          <div class="footer__bottom">
             <!-- row start -->
             <div class="row">
               <div class="col">
                 <div class="footer__copyright">
-                  <p class="text-light">
-                    @ 2021, DeepFaraskhana. Made with passion by DS.
+                  <p class="text-dark">
+                    @ 2021, Deep Faraskhana. Made with passion by DS.
                   </p>
                 </div>
               </div>
@@ -409,8 +411,8 @@
 
 
   <!-- JavaScript -->
-  <script src="../js/vendors.js"></script>
-  <script src="../js/main.js"></script>
+  <script src="js/vendors.js"></script>
+  <script src="js/main.js"></script>
   <script type="text/javascript"> 
     function googleTranslateElementInit() {
       new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');

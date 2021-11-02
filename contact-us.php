@@ -33,7 +33,7 @@
   <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-  <title>About Us | Deep Faraskhana</title>
+  <title>Contact Us | Deep Faraskhana</title>
 </head>
 
 <body class="preloader-visible" data-barba="wrapper">
@@ -82,10 +82,10 @@
         <!-- header__bar start -->
         <div class="header__bar">
           <div class="header__logo js-header-logo">
-            <a href="./index.html">
+            <a href="/">
               <img class="header__logo__light" src="img/logo/DF-logo-white.png" alt="Logo">
             </a>
-            <a href="./index.html">
+            <a href="/">
               <img class="header__logo__dark" src="img/logo/DF-logo-dark.png" alt="Logo">
             </a>
           </div>
@@ -120,22 +120,22 @@
                   <div class="navList__wrap">
                     <ul class="navList js-navList">
                       <li>
-                        <a href="index.html">
+                        <a href="/">
                           Home
                         </a>
                       </li>
                       <li>
-                        <a href="about-us.html">
+                        <a href="about-us">
                           About Us
                         </a>
                       </li>
                       <li>
-                        <a href="our-works.html">
+                        <a href="our-works">
                           Our Works
                         </a>
                       </li>
                       <li>
-                        <a href="contact-us.html">
+                        <a href="contact-us">
                           Contact Us
                         </a>
                       </li>
@@ -163,8 +163,9 @@
                       </h5>
 
                       <div class="nav__info__content text-lg text-white mt-16">
-                        <a href="#">deepeventmanagers@gmail.com</a>
-                        <a href="#">+91 8460652672</a>
+                        <a href="mailto:deepeventmanagers@gmail.com">deepeventmanagers@gmail.com</a>
+                        <a href="tel:8460652672">+91 8460652672</a>
+                        <a href="tel:9925710818">+91 9925710818</a>
                       </div>
                     </div>
                   </div>
@@ -179,105 +180,100 @@
 
 
       <!-- section start -->
-      <section class="layout-pt-2xl layout-pb-md">
-        <div data-anim-wrap>
-
-          <!-- container start -->
-          <div class="container">
-            <!-- row start -->
-            <div class="row justify-content-between">
-
-              <div class="col-lg-6 col-md-10">
-                <div data-anim-child="slide-up" class="sectionHeading -sm">
-                  <h1 class="sectionHeading__title">
-                    14 years of successful and memorable events that we can’t wait to organise for you.
-                  </h1>
-                </div>
-              </div>
-
-
-              <div class="col-lg-5 col-md-10 md:mt-32 sm:mt-20">
-                <div data-anim-child="slide-up delay-1">
-                  <p class="text-lg sm:text-base">
-                    Our motive is to provide seamless and luxurious experience to our clients, make them feel superior.
-                  </p>
-                  <p class="text-lg sm:text-base mt-32 md:mt-20">
-                    Our main forte is to deconstruct the client's expectations and organising the events stepwise.<br/><b>Deep Events</b> specializes in organising large scale events efficiently and effectively, yet small enough to create the event of your dreams with relentless pursuit with undivided attention to every smallest detail.
-                  </p>
-                </div>
-              </div>
-
-            </div>
-            <!-- row end -->
-          </div>
-          <!-- container end -->
-
-
-          <!-- container start -->
-          <div class="container-wide layout-pt-lg">
-            <div data-anim-child="slide-up delay-3" data-parallax="0.7" class="h-lg">
-              <div data-parallax-target class="bg-image js-lazy" data-bg="img/backgrounds/about-banner-2.jpg"></div>
-            </div>
-          </div>
-          <!-- container end -->
-
-        </div>
-      </section>
-      <!-- section end -->
-
-      <!-- section start -->
-      <section class="layout-pt-sm text-dark  layout-pb-md">
+      <section class="layout-pt-xl layout-pb-sm">
         <!-- container start -->
-        <div class="container">
+        <div data-anim-wrap class="container">
 
           <!-- row start -->
-          <div class="row">
-            <div class="col-xl-6 col-lg-8 col-md-10">
-              <div class="sectionHeading -lg">
-                <h2 class="sectionHeading__title" style="color: black;">
-                  Organize it simple but memorable
-                </h2>
+          <div class="row justify-content-center">
+            <div class="col-xl-9">
+              <div data-anim-child="slide-up delay-1" class="sectionHeading -md">
+                <h1 class="sectionHeading__title">
+                  Have an event in mind?
+                </h1>
+                <p class="text-black leading-md mt-24">
+                  Reach us at
+                  <a href="mailto:deepeventmanagers@gmail.com" class="fw-700">deepeventmanagers@gmail.com</a> or call us at
+                </p>
+                <p class="text-black leading-md mt-24">
+                    Akshay Rana: +91 8460652672
+                </p>
+
+                <p class="text-black leading-md mt-24">
+                    Deepakbhai Rana: +91 9925710818
+                </p>
               </div>
             </div>
           </div>
           <!-- row end -->
 
-
           <!-- row start -->
-          <div class="row x-gap-60 y-gap-48 layout-pt-sm">
-            <div class="col-lg-4 col-md-6">
-              <div class="">
-                <h4 class="text-xl fw-600" style="color: black;">
-                  Detailed Attention
-                </h4>
-                <p class="mt-16">
-                  Each and every details are taken into consideration when the event is planned. Deep Event Management is known for delivering perfect and memorable event for our clients.
-                </p>
-              </div>
-            </div>
+          <!-- <div data-anim-child="slide-up delay-1" class="row justify-content-center layout-pt-sm">
+            <div class="col-xl-9">
+              <div class="contact-form -type-1">
+                <form class="row x-gap-32 y-gap-32" method="POST" action="#">
+                  <div class="col-12">
+                    <label class="js-input-group">
+                      Name
+                      <input type="text" name="name" data-required placeholder="Fill in your name">
+                      <span class="form__error"></span>
+                    </label>
+                  </div>
 
-            <div class="col-lg-4 col-md-6">
-              <div class="">
-                <h4 class="text-xl fw-600" style="color: black;">
-                  Value For Money
-                </h4>
-                <p class="mt-16">
-                  We give 100% of our work and even more according to the client's budget. We are more biased towards a perfect and memorable event rather than the budget.
-                </p>
-              </div>
-            </div>
+                  <div class="col-12">
+                    <label class="js-input-group">
+                      Email
+                      <input type="text" name="email" data-required placeholder="Fill in your email">
+                      <span class="form__error"></span>
+                    </label>
+                  </div>
 
-            <div class="col-lg-4 col-md-6">
-              <div class="">
-                <h4 class="text-xl fw-600" style="color: black;">
-                  Transparency
-                </h4>
-                <p class="mt-16">
-                  When planning the event, we make sure that our client is in loop of each and every detail planning which is our biggest asset. Transparency is our valued possession.
-                </p>
+                  <div class="col-12">
+                    <label class="js-input-group">
+                      Phone Number
+                      <input type="text" name="phone" data-required placeholder="Enter your mobile number">
+                      <span class="form__error"></span>
+                    </label>
+                  </div>
+
+                  <div class="col-12">
+                    <label class="js-input-group">
+                      Budget (optional)
+                      <input type="text" name="budget" placeholder="Do you have a fixed budget?">
+                      <span class="form__error"></span>
+                    </label>
+                  </div>
+
+                  <div class="col-12">
+                    <label class="js-input-group">
+                      Tell us about your event
+                      <textarea name="message" rows="1" placeholder="Event description"></textarea>
+                      <span class="form__error"></span>
+                    </label>
+                  </div>
+
+                 <div class="col-12 ajax-form-alert js-ajax-form-alert is-success">
+                    <div class="ajax-form-alert__content">
+                      Your message has been sent! We will reply you as soon as possible.
+                    </div>
+                  </div>
+
+                  <div class="col-12 ajax-form-alert js-ajax-form-alert is-error">
+                    <div class="ajax-form-alert__content">
+                      Something went wrong. Please contact us directly at +91 8460652672/+91 9925710818.
+                    </div>
+                  </div>
+                  
+
+                  <div class="col-12">
+                    <button type="submit" class="button -md -black text-white" name="btn-send">
+                      Send Message
+                    </button>
+                  </div>
+                </form>
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- row end -->
 
         </div>
@@ -286,41 +282,8 @@
       <!-- section end -->
 
 
-      <!-- section start -->
-      <section data-parallax="0.7" class="layout-pt-lg layout-pb-lg">
-        <div data-parallax-target class="overlay-black-md bg-image js-lazy" data-bg="img/backgrounds/about-banner.jpeg"></div>
-
-        <!-- container start -->
-        <div class="container z-5">
-          <!-- row start -->
-          <div class="row justify-content-center text-center">
-            <div class="col-12">
-              <p class="text-sm uppercase tracking-lg text-white mb-20">
-                Contact us
-              </p>
-
-              <h2 class="text-5xl sm:text-5xl xs:text-4xl leading-sm fw-700 text-white">
-                Planning to organise an event ?
-              </h2>
-
-              <p class="text-xl md:text-lg text-white mt-16">
-                Small or big, we've got you covered!
-              </p>
-
-              <a href="#" class="button -md -white text-black mt-32">
-                Get in Touch
-              </a>
-            </div>
-          </div>
-          <!-- row end -->
-        </div>
-        <!-- container end -->
-      </section>
-      <!-- section end -->
-
-
-      <!-- footer start -->
-      <footer class="footer -type-1">
+       <!-- footer start -->
+      <footer class="footer -type-1 bg-dark-1">
         <!-- container start -->
         <div class="container">
 
@@ -328,37 +291,38 @@
             <!-- row start -->
             <div class="row y-gap-48 justify-content-between">
               <div class="col-lg-auto col-sm-12">
-                <a href="index.html" class="footer__logo text-dark">
+                <a href="index.html" class="footer__logo text-white">
                   DeepFaraskhana.
                 </a>
               </div>
 
               <div class="col-lg-3 col-sm-6">
-                <h4 class="text-xl fw-500 text-dark">
-                  Address
+                <h4 class="text-xl fw-500 text-white">
+                  Studio
                 </h4>
 
-                <div class="footer__content text-base text-dark mt-16 sm:mt-12">
+                <div class="footer__content text-base text-light mt-16 sm:mt-12">
                   <p>B101, Pramukhswami Nagar Society, Near Meera Flats, Near Old R.T.O, Warasia Ring Road, Vadodara</p>
                   <p class="mt-8">deepeventmanagers@gmail.com</p>
                   <p class="mt-8">+91 8460652672</p>
+                  <p class="mt-8">+91 9925710818</p>
                 </div>
               </div>
 
               <div class="col-lg-auto col-sm-4">
-                <h4 class="text-xl fw-500 text-black">
+                <h4 class="text-xl fw-500 text-white">
                   Links
                 </h4>
 
-                <div class="footer__content text-base text-dark mt-16 sm:mt-12">
-                  <div><a data-barba href="about-us.html" class="button -underline">About Us</a></div>
-                  <div><a data-barba href="our-works.html" class="button -underline mt-4">Our Works</a></div>
-                  <div><a data-barba href="contact-us.html" class="button -underline mt-4">Contact Us</a></div>
+                <div class="footer__content text-base text-light mt-16 sm:mt-12">
+                  <div><a href="about-us" class="button -underline">About Us</a></div>
+                  <div><a href="our-works" class="button -underline mt-4">Our Works</a></div>
+                  <div><a href="contact-us" class="button -underline mt-4">Contact Us</a></div>
                 </div>
               </div>
 
               <div class="col-lg-auto col-auto">
-                <h4 class="text-xl fw-500 text-black">
+                <h4 class="text-xl fw-500 text-white">
                   Follow us
                 </h4>
 
@@ -379,13 +343,13 @@
           </div>
 
 
-          <div class="footer__bottom">
+          <div class="footer__bottom -light">
             <!-- row start -->
             <div class="row">
               <div class="col">
                 <div class="footer__copyright">
-                  <p class="text-dark">
-                    @ 2021, Deep Faraskhana. Made with passion by DS.
+                  <p class="text-light">
+                    @ 2021, DeepFaraskhana. Made with passion by DS.
                   </p>
                 </div>
               </div>
